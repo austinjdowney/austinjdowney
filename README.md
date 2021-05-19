@@ -6,7 +6,7 @@ Gmail: austinjdowney@gmail.com
 Feel free to browse the respositories from a beginning developer and the progress I have made to building 
 in-depth full-stack applications with a variety of features.
 
-During my journey I have discovered I passion for not just the user experience (UX) in the front-end (Vue.js), 
+During my journey I have discovered a passion for not just the user experience (UX) in the front-end (Vue.js), 
 but incorporating the back-end logic (preferably C##, but node.js will always be my first).
 
 I have a few private projects under way that I am working on and constantly go back to touch up previous projects,
