@@ -1,23 +1,23 @@
 ## Welcome to Austin's Github Page
 
 ### Contact Information
-LinkedIn: https://www.linkedin.com/in/austin-downey/
-Gmail: austinjdowney@gmail.com
+###### LinkedIn: https://www.linkedin.com/in/austin-downey/
+###### Gmail: austinjdowney@gmail.com
 
 ### Languages/Frameworks
 
-||JS-VUE3-HTML5-BootStrap-SCSS-Node.js-MongoDB-JQuery-RESTful Api's-C##-.Net-MySQL-Chart.js-SCRUM || 
+###### ||JS-VUE3-HTML5-BootStrap-SCSS-Node.js-MongoDB-JQuery-RESTful Api's-C##-.Net-MySQL-Chart.js-SCRUM || 
 
 ### Projects
 
-CarbonFootprint
-Kanban
-BugLogger
-Inspire
+###### CarbonFootprint
+###### Kanban
+###### BugLogger
+###### Inspire
 
 ### Education
-BS Psychology with emphasis on NeuroScience with Clinical Disorders - Pacific University - Class of 2015
-Certificate of Completion - CodeWorks - 2021
+###### BS Psychology with emphasis on NeuroScience with Clinical Disorders - Pacific University - Class of 2015
+###### Certificate of Completion - CodeWorks - 2021
    
 ### About Me
 Feel free to browse the respositories from a beginning developer and the progress I have made to building 
