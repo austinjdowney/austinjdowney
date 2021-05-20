@@ -2,7 +2,7 @@
 
 ### Contact Information
 ###### [LinkedIn](https://www.linkedin.com/in/austin-downey/)
-###### [Gmail](austinjdowney@gmail.com)
+###### austinjdowney@gmail.com
 
 ### Languages/Frameworks
 
@@ -12,7 +12,7 @@
 
 ###### CarbonFootprint
 ###### [Kanban](https://kankanban.herokuapp.com/)
-###### [BugLogger](https://buglogger.herokuapp.com/)
+###### [BugLogger](https://bugloggger.herokuapp.com/)
 ###### Inspire
 
 ### Education
