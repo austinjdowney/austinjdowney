@@ -15,6 +15,10 @@ Kanban
 BugLogger
 Inspire
 
+### Education
+BS Psychology with emphasis on NeuroScience with Clinical Disorders - Pacific University - Class of 2015
+Certificate of Completion - CodeWorks - 2021
+   
 ### About Me
 Feel free to browse the respositories from a beginning developer and the progress I have made to building 
 in-depth full-stack applications with a variety of features.
