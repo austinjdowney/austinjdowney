@@ -1,8 +1,8 @@
 ## Welcome to Austin's Github Page
 
 ### Contact Information
-###### LinkedIn: https://www.linkedin.com/in/austin-downey/
-###### Gmail: austinjdowney@gmail.com
+###### [LinkedIn]: https://www.linkedin.com/in/austin-downey/
+###### Gmail: [austinjdowney@gmail.com
 
 ### Languages/Frameworks
 
@@ -11,8 +11,8 @@
 ### Projects
 
 ###### CarbonFootprint
-###### Kanban
-###### BugLogger
+###### Kanban: [https://kankanban.herokuapp.com/]
+###### BugLogger: https://buglogger.herokuapp.com/
 ###### Inspire
 
 ### Education
