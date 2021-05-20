@@ -6,7 +6,7 @@ Gmail: austinjdowney@gmail.com
 
 ### Languages/Frameworks
 
-||JS-VUE3-HTML5-BootStrap-SCSS-Node.js-MongoDB-JQuery-RESTful Api's-.NET-C##-MySQL-Chart.js-SCRUM || 
+||JS-VUE3-HTML5-BootStrap-SCSS-Node.js-MongoDB-JQuery-RESTful Api's-C##-.Net-MySQL-Chart.js-SCRUM || 
 
 ### Projects
 
