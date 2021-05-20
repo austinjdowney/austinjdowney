@@ -1,8 +1,21 @@
-### Welcome to Austin's Github Page
+## Welcome to Austin's Github Page
 
+### Contact Information
 LinkedIn: https://www.linkedin.com/in/austin-downey/
 Gmail: austinjdowney@gmail.com
 
+### Languages/Frameworks
+
+||JS-VUE3-HTML5-BootStrap-SCSS-Node.js-MongoDB-JQuery-RESTful Api's-.NET-C##-MySQL-Chart.js-SCRUM || 
+
+### Projects
+
+CarbonFootprint
+Kanban
+BugLogger
+Inspire
+
+### About Me
 Feel free to browse the respositories from a beginning developer and the progress I have made to building 
 in-depth full-stack applications with a variety of features.
 
@@ -19,3 +32,4 @@ Please feel free to reach out thru LinkedIn or even Gmail that I linked at the t
 
 
 Have a blessed day and hope to hear from you soon!
+
