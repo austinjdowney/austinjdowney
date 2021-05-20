@@ -10,15 +10,15 @@
 
 ### Projects
 
-###### EcoSistent
+##### [EcoSistent]
 Full-Stack application to help track home utilities (i.e., electricity and water) and car emissions (i.e., based off miles driven vs gas type). Multple Api's incorporated to application.
 
-###### [Kanban](https://kankanban.herokuapp.com/) 
+##### [Kanban](https://kankanban.herokuapp.com/#/) 
 Full-Stack application to track varying projects that allows for lists for each project, tasks for each list, and comments on each task.
 
-###### [BugLogger](https://bugloggger.herokuapp.com/)
+##### [BugLogger](https://bugloggger.herokuapp.com/#/)
 Full-Stack application to track varying "bugs" by creator and time created, with the ability to sort the "closed" bugs, but able to add notes to each individual bug page.
-###### Inspire
+##### Inspire
 
 
 ### Education
