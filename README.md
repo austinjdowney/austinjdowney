@@ -1,7 +1,7 @@
 ## Welcome to Austin's Github Page
 
 ### Contact Information
-###### [LinkedIn]: (https://www.linkedin.com/in/austin-downey/)
+###### [LinkedIn](https://www.linkedin.com/in/austin-downey/)
 ###### Gmail: [austinjdowney@gmail.com
 
 ### Languages/Frameworks
