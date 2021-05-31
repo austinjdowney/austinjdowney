@@ -48,3 +48,7 @@
 ### Summary preparing for interview
 
  ##### I went over as many scenarios I could think of based off the most common interview questions, in order to be mentally prepared for what may have been brought up to be able to provide the most ideal answer from a real experience. The other big thing is to get as much sleep as possible and to remember to just be the most real/best YOU you can be. Being authentic, true to yourself, and relaxed is the best mindset I believe entering an interview that may change the direction of your life.  
+ 
+ ### Summary for Whiteboard Challenge Practice
+  ##### Alec and I both practiced doing whiteboard challenge questions. I had done a variation of FizzBuzz with 7 and 9, plus needing to account if none of the numbers provided where divisible by 7 and 9. Additionally, I had also done MaxChar, which was a bit more difficult, but highlighted the need to possibly just become a bit more comfortable with adapting the different types of for loops to one another, in certain situations off hand, for a more concise result. Still got the answer though, just had a couple more steps than if I had done a for of loop.
+ 
