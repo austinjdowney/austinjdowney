@@ -30,13 +30,16 @@ Have a blessed day and hope to hear from you soon!
 
 ### Projects
 
-##### [EcoSistent](https://ecosistent.herokuapp.com/#/)
-Full-Stack application, built by 4 developers to help track home utilities (i.e., electricity and water) and car emissions (i.e., based off miles driven vs gas type). Multple Api's incorporated to application.
+##### [Keepr]()
+Full-Stack application (Vue.js and C#) that incorporates multiple different style relationships (i.e., one to one, one to many, and many to many), where a user is able to create their own vaults and keeps, which are used to add to certain individual public or private vaults (i.e., only seen by the creator). Keeps are tracked by the number of times viewed and "kept" in individual vaults. A user is able to add another users keeps to their own vault (i.e., vaultKeeps) and is able to delete them once added to vault
+
+##### [CarbonNone](https://ecosistent.herokuapp.com/#/)
+Full-Stack application (Vue.js and Node.js), built by 4 developers to help track home utilities (i.e., electricity and water) and car emissions (i.e., based off miles driven vs gas type). Multple Api's incorporated to application.
 
 ##### [Kanban](https://kankanban.herokuapp.com/#/) 
-Full-Stack application built mainly with a partner (few additonal tweaks) to track varying projects that allows for lists for each project, tasks for each list, and comments on each task.
+Full-Stack application (Vue.js and Node.js) built mainly with a partner (few additonal tweaks) to track varying projects that allows for lists for each project, tasks for each list, and comments on each task.
 
 ##### [BugLogger](https://bugloggger.herokuapp.com/#/)
-Full-Stack application to track varying "bugs" by creator and time created, with the ability to sort the "closed" bugs, but able to add notes to each individual bug page.
+Full-Stack application (Vue.js and Node.js) to track varying "bugs" by creator and time created, with the ability to sort the "closed" bugs, but able to add notes to each individual bug page.
 ##### Inspire
-MVC applicaiton incorporating multiple different Api's to track weather, a create a todo list and track different completed tasks, randomized quote/HD background image generator that changes on refresh, and also a real time clock with motivational message.
+MVC application incorporating multiple different Api's to track weather, a create a todo list and track different completed tasks, randomized quote/HD background image generator that changes on refresh, and also a real time clock with motivational message.
