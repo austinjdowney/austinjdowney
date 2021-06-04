@@ -41,5 +41,5 @@ Full-Stack application (Vue.js and Node.js) built mainly with a partner (few add
 
 ##### [BugLogger](https://bugloggger.herokuapp.com/#/)
 Full-Stack application (Vue.js and Node.js) to track varying "bugs" by creator and time created, with the ability to sort the "closed" bugs, but able to add notes to each individual bug page.
-##### Inspire
+##### [Inspire](https://austinjdowney.github.io/Inspire/)
 MVC application incorporating multiple different Api's to track weather, a create a todo list and track different completed tasks, randomized quote/HD background image generator that changes on refresh, and also a real time clock with motivational message.
