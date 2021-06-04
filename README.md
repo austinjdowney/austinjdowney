@@ -3,7 +3,8 @@
 ### Contact Information
 ###### [LinkedIn](https://www.linkedin.com/in/austin-downey/)
 ###### austinjdowney@gmail.com
-###### [Resume](https://github.com/austinjdowney/austinjdowney/blob/main/Austin%20Downey%20Stylized%20Resume.pdf)
+###### [ATS Resume](file:///C:/Users/austi/OneDrive/Documents/Austin%20Downey%20Resume2021.pdf)
+###### [Stylized Resume](https://github.com/austinjdowney/austinjdowney/blob/main/Austin%20Downey%20Stylized%20Resume.pdf)
 
 ### Languages/Frameworks
 
