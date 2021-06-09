@@ -1,9 +1,9 @@
 ## Welcome to Austin's Github Page 
 
-######[My Portfolio](https://austinjdowney.github.io/My-Portfolio/)
+[My Portfolio](https://austinjdowney.github.io/My-Portfolio/)
 
 ### Contact Information 
-###### [LinkedIn](https://www.linkedin.com/in/austin-downey/) ######austinjdowney@gmail.com ######[ATS Resume](https://github.com/austinjdowney/austinjdowney/blob/main/Austin%20Downey%20Resume2021.pdf) ######[Stylized Resume](https://github.com/austinjdowney/austinjdowney/blob/main/Austin%20Downey%20Stylized%20Resume.pdf)
+[LinkedIn](https://www.linkedin.com/in/austin-downey/) austinjdowney@gmail.com [ATS Resume](https://github.com/austinjdowney/austinjdowney/blob/main/Austin%20Downey%20Resume2021.pdf) [Stylized Resume](https://github.com/austinjdowney/austinjdowney/blob/main/Austin%20Downey%20Stylized%20Resume.pdf)
 
 ### Languages/Frameworks
 
